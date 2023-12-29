@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/draft2/",
+    "build": "vite build --base=/todoist/",
     "preview": "vite preview"
   },
   "devDependencies": {
